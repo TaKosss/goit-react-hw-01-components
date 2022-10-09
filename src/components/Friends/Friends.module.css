@@ -24,7 +24,7 @@ margin-top: 10px;
     margin: 0px 15px
 }
 
-.isOnline{
+.isOnline{display: block;
     margin-left: 5px;
     padding: 0px 0px;
     width: 15px;
@@ -34,6 +34,7 @@ margin-top: 10px;
 }
 
 .isOfline{
+    display: block;
     margin-left: 5px;
     padding: 0px 0px;
     content: '';
